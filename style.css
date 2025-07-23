@@ -1,0 +1,32 @@
+body {
+     font-family: 'Segoe UI', sans-serif;
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+    color: #333;
+    height: 100vh;
+}
+
+h1{
+    font-size: 3rem;
+    margin: 0;
+} 
+
+p {
+    font-size: 1.2rem;
+}
+
+.start-btn {
+    background-color: #B19CD9;; 
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.start-btn:hover {
+    background-color: #4B0082;
+    color:  #FFFFFF;
+}
